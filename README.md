@@ -4,8 +4,9 @@ Here is a list for learning various topics of machine learning, computational ne
 
 ## Machine Learning
 
-Neuromatch Academy: Deep Learning. https://deeplearning.neuromatch.io/tutorials/intro.html
+Dive into Deep Learning. https://d2l.ai
 
+Neuromatch Academy: Deep Learning. https://deeplearning.neuromatch.io/tutorials/intro.html
 
 ## Computational Neuroscience
 
