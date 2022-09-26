@@ -12,6 +12,9 @@ Deep Learning. https://www.deeplearningbook.org
 
 Machine Learning - An Algorithmic Perspective. https://homepages.ecs.vuw.ac.nz/~marslast/MLbook.html
 
+Probabilistic machine learning: a book series by Kevin Murphy. https://github.com/probml/pml-book
+
+
 ## Computational Neuroscience
 
 Neuromatch Academy: Computational Neuroscience. https://compneuro.neuromatch.io/tutorials/intro.html
