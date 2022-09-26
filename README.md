@@ -8,6 +8,9 @@ Neuromatch Academy: Deep Learning. https://deeplearning.neuromatch.io/tutorials/
 
 Dive into Deep Learning. https://d2l.ai
 
+Deep Learning. https://www.deeplearningbook.org
+
+Machine Learning - An Algorithmic Perspective. https://homepages.ecs.vuw.ac.nz/~marslast/MLbook.html
 
 ## Computational Neuroscience
 
