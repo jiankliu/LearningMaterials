@@ -17,11 +17,16 @@ Neuronal Dynamics - From single neurons to networks and models of cognition. htt
 
 Spiking Neuron Models - Single Neurons, Populations, Plasticity. https://lcnwww.epfl.ch/gerstner/SPNM/SPNM.html
 
+Dynamical Systems in Neuroscience - The Geometry of Excitability and Bursting. https://www.izhikevich.org/publications/dsn/index.htm
+
+
 Introduction to neural computation. https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018
 
 ## Neuroscience
 
 WEBVISION - The Organization of the Retina and Visual System. https://webvision.med.utah.edu
+
+Neuroscience Online. https://nba.uth.tmc.edu/neuroscience/m/index.htm
 
 
 
