@@ -2,13 +2,17 @@
 
 Here is a list for learning various topics of machine learning, computational neuroscience, and biological neuroscience.
 
-## Machine Learning
+## Deep Learning
 
 Neuromatch Academy: Deep Learning. https://deeplearning.neuromatch.io/tutorials/intro.html
 
 Dive into Deep Learning. https://d2l.ai
 
 Deep Learning. https://www.deeplearningbook.org
+
+## Machine Learning
+
+Pattern Recognition and Machine Learning by Bishop. Python codes implementing algorithms. https://github.com/ctgk/PRML
 
 Machine Learning - An Algorithmic Perspective. https://homepages.ecs.vuw.ac.nz/~marslast/MLbook.html
 
