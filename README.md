@@ -13,6 +13,8 @@ Dive into Deep Learning. https://d2l.ai
 
 Neuromatch Academy: Computational Neuroscience. https://compneuro.neuromatch.io/tutorials/intro.html
 
+Neuronal Dynamics - From single neurons to networks and models of cognition. https://neuronaldynamics.epfl.ch/
+
 Introduction to neural computation. https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018
 
 ## Neuroscience
